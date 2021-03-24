@@ -1,4 +1,4 @@
-const repositoryName = 'unform2'
+const repositoryName = 'unform22'
 
 export function RepositoryList() {
   return (
